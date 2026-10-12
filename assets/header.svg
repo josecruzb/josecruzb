@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="400" viewBox="0 0 1100 400" role="img" aria-labelledby="title">
+<title id="title">José Cruz. — Software Engineer. Architecture / Backend / DevOps.</title>
+<rect width="1100" height="400" fill="#252B35"/>
+<g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" fill="#F5F7FA">
+<text x="80" y="76" font-size="15" letter-spacing="2" fill="#3B82F6">josecruzb</text>
+<text x="1020" y="76" text-anchor="end" font-size="14" opacity=".65">a work in progress</text>
+<path d="M80 98H1020" stroke="#F5F7FA" stroke-opacity=".2"/>
+<text x="75" y="217" font-size="92" font-weight="300" letter-spacing="-2">José Cruz<tspan fill="#3B82F6">.</tspan></text>
+<text x="82" y="262" font-size="22" font-weight="300" opacity=".8">Software Engineer</text>
+<path d="M80 323H1020" stroke="#F5F7FA" stroke-opacity=".2"/>
+<text x="80" y="362" font-size="17">Architecture</text><circle cx="237" cy="356" r="3" fill="#3B82F6"/>
+<text x="262" y="362" font-size="17">Backend</text><circle cx="375" cy="356" r="3" fill="#3B82F6"/>
+<text x="400" y="362" font-size="17">DevOps</text>
+<text x="1020" y="362" text-anchor="end" font-size="16" fill="#3B82F6">github / josecruzb</text>
+</g></svg>
