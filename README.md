@@ -2,13 +2,14 @@
 
 # José Cruz.
 
-<img align="right" width="44%" src="assets/programmer-pixel.png" alt="Pixel art programmer working at a code editor in blue monitor light." />
-
 ```js
 const jose = {
   country: "El Salvador",
   role: "Software Engineer",
-  focus: ["Backend", "Frontend"],
+  focus: [
+    "Backend",
+    "Frontend",
+  ],
   interests: "System Design",
   exploring: "DevOps",
 };
@@ -18,7 +19,9 @@ const jose = {
 >
 > — Roronoa Zoro · *One Piece*
 
-<br clear="both" />
+<p align="center">
+  <img width="360" src="assets/programmer-pixel.png" alt="Pixel art programmer working at a code editor in blue monitor light." />
+</p>
 
 ## Stack
 
