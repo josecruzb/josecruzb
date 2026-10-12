@@ -19,10 +19,6 @@ const jose = {
 >
 > — Roronoa Zoro · *One Piece*
 
-<p align="center">
-  <img width="360" src="assets/programmer-pixel.png" alt="Pixel art programmer working at a code editor in blue monitor light." />
-</p>
-
 ## Stack
 
 `.NET` · `React` · `Next.js` · `SQL Server` · `Node.js`
