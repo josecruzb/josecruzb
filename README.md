@@ -1,32 +1,13 @@
-<img align="right" src="assets/portfolio-aligned.svg" width="120" height="64" alt="Portfolio ↗" />
+# Hey, I'm José 👋
 
-# José Cruz.
+I'm a software engineer from El Salvador. I work on backend and frontend applications, with an interest in software architecture and system design.
 
-```js
-const jose = {
-  country: "El Salvador",
-  role: "Software Engineer",
-  focus: [
-    "Backend",
-    "Frontend",
-  ],
-  interests: "System Design",
-  exploring: "DevOps",
-};
-```
-
-> “Nothing happened.”
->
-> — Roronoa Zoro · *One Piece*
-
-## Stack
+## Technologies & tools
 
 `.NET` · `React` · `Next.js` · `SQL Server` · `Node.js`
 
 `TypeScript` · `Java` · `Docker`
 
----
-
-### Contact
+## Contact
 
 [Email ↗](mailto:jmiguel220313@gmail.com) · [LinkedIn ↗](https://www.linkedin.com/in/josecruz22/)
