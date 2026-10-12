@@ -1,6 +1,6 @@
-# José Cruz.
+<img align="right" src="assets/portfolio.svg" width="120" height="40" alt="Portfolio ↗" />
 
-<p align="right">Portfolio ↗</p>
+# José Cruz.
 
 Software Engineer · El Salvador
 
