@@ -1,5 +1,9 @@
 # José Cruz.
 
+<p align="right">Portfolio ↗</p>
+
+Software Engineer · El Salvador
+
 ## About
 
 <img align="right" width="38%" src="assets/programmer-pixel.png" alt="Pixel art programmer working at a code editor in blue monitor light." />
