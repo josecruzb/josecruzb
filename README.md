@@ -21,7 +21,3 @@ const jose = {
 > — Roronoa Zoro · *One Piece*
 
 <br clear="both" />
-
----
-
-Building. Learning. Adjusting.
