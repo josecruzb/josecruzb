@@ -6,9 +6,13 @@
 
 ```js
 const jose = {
+  country: "El Salvador",
   role: "Software Engineer",
-  focus: ["Architecture", "Backend", "DevOps"],
-  exploring: "UI design",
+  focus: [
+    "Architecture", "Backend",
+    "Frontend", "System Design",
+  ],
+  exploring: "DevOps",
 };
 ```
 
