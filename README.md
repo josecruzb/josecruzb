@@ -1,4 +1,4 @@
-![José Cruz. — Software Engineer. Architecture / Backend / DevOps.](assets/header.svg)
+# José Cruz.
 
 ## About
 
