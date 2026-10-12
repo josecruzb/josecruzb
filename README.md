@@ -1,4 +1,4 @@
-<img align="right" src="assets/portfolio.svg" width="120" height="40" alt="Portfolio ↗" />
+<img align="right" src="assets/portfolio.svg" width="120" height="64" alt="Portfolio ↗" />
 
 # José Cruz.
 
